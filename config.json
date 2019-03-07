@@ -1,0 +1,8 @@
+{
+  "production": {
+    "backend": "http://84.201.135.144:1111"
+  },
+  "development": {
+    "backend": "http://84.201.135.144:1111"
+  }
+}
