@@ -2,7 +2,7 @@
 
 
 ## Dependencies
-App needs: [Node.js](https://nodejs.org/en/), [Cordova](https://cordova.apache.org/), [Android SDK](https://developer.android.com/studio).
+App needs: [Node.js](https://nodejs.org/en/), [Quasar Framework](https://v1.quasar-framework.org/), [Cordova](https://cordova.apache.org/), [Android SDK](https://developer.android.com/studio).
 
 
 ## Configurating
